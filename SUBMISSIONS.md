@@ -12,3 +12,4 @@ already in the README do not need a line here.
 
 ## Leads
 
+- Dip Duck ($DIPDUCK) — https://dipduck.xyz — https://github.com/DipDuckToken/dipduck-contracts — Fair-launch meme token on Robinhood Chain with liquidity locked forever in a verified contract, plus a free browser adventure game with online co-op.
